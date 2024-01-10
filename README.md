@@ -1,2 +1,2 @@
 Description:
-  Assembly program compiled in Linux that takes in two 64-signed integers in which it will then add them together and print it to the user.
+ Assembly calculator which can do addition, subtraction, multiplication, and division with remainder. First input is going to be a number specifying which operation you want to do ( 1 addion | 2 subtraction | 3 multiplication | 4 division | -1 EXIT ), the remainding two numbers will be signed integer values.
