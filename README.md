@@ -19,6 +19,9 @@ Assembly calculator which can do addition, subtraction, multiplication, and divi
 
 ----------------------------------------------
 
+<img src="https://github.com/Kingerthanu/assembly_Calculator/assets/76754592/74cf7c5f-efe1-4ca5-80a4-bb3d2ad4fe5d" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/assembly_Calculator/assets/76754592/74cf7c5f-efe1-4ca5-80a4-bb3d2ad4fe5d" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/assembly_Calculator/assets/76754592/74cf7c5f-efe1-4ca5-80a4-bb3d2ad4fe5d" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/assembly_Calculator/assets/76754592/74cf7c5f-efe1-4ca5-80a4-bb3d2ad4fe5d" alt="Cornstarch <3" width="55" height="49">
+
+
 **Features:**
  
  ![2024-01-1000-52-01-ezgif com-video-to-gif-converter](https://github.com/Kingerthanu/assembly_Calculator/assets/76754592/0e1135ae-4c63-49b0-b530-20a613c43cbe)
