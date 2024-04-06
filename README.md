@@ -13,6 +13,13 @@ Assembly calculator which can do addition, subtraction, multiplication, and divi
 
  First input is going to be a number specifying which operation you want to do ( 1 addion | 2 subtraction | 3 multiplication | 4 division | -1 EXIT ), the remainding two numbers will be signed integer values.
 
+This Program Was Really Fun Honestly And Taught Me A Lot About Registers In Assembly And How To Follow Standards For Defining Input Registers And Output Registers. With Division We Have Some Interesting Behaivor As From Assemblys Way Of Doing Calculations We Can Return Divison With Remainder Which Is Cool. 
+
+This Program Helped Break That Stigma I Had With Assembly As Being Scary As Honestly Isn't That Crazy After Building Your First Thing As Long As You Have Proper Tabs On What You Are Working With.
+
+I've Been Able To Really Interpret How Code "Flows" In Assembly As Learning Differences Between Varying Logistical Jumps Was Cool.
+ 
+
 
 
 <img src="https://github.com/Kingerthanu/assembly_Calculator/assets/76754592/d60c88c0-27b9-40f6-9a21-734159c51813" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/assembly_Calculator/assets/76754592/d60c88c0-27b9-40f6-9a21-734159c51813" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/assembly_Calculator/assets/76754592/d60c88c0-27b9-40f6-9a21-734159c51813" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/assembly_Calculator/assets/76754592/d60c88c0-27b9-40f6-9a21-734159c51813" alt="Cornstarch <3" width="55" height="49">
