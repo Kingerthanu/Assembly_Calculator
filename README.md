@@ -11,7 +11,8 @@ Assembly calculator which can do addition, subtraction, multiplication, and divi
 
  This Program Utilizes... Well.. Assembly And Terminal Inputs.
 
- First input is going to be a number specifying which operation you want to do: ( 1 addion | 2 subtraction | 3 multiplication | 4 division | -1 EXIT ), the remainding two numbers will be signed integer values.
+ First input is going to be a number specifying which operation you want to do: 
+ ( 1 addion | 2 subtraction | 3 multiplication | 4 division | -1 EXIT ), the remainding two numbers will be signed integer values.
 
 This Program Was Really Fun Honestly And Taught Me A Lot About Registers In Assembly And How To Follow Standards For Defining Input Registers And Output Registers. With Division We Have Some Interesting Behaivor As From Assemblys Way Of Doing Calculations We Can Return Divison With Remainder Which Is Cool. 
 
